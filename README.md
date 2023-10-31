@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **21710115_INFO_CREACION_MODELOS_APLICACION_PYTHON/**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/21710115_INFO_CREACION_MODELOS_APLICACION_PYTHON/](https://ecored-sena.github.io/21710115_INFO_CREACION_MODELOS_APLICACION_PYTHON/)
 
 #
